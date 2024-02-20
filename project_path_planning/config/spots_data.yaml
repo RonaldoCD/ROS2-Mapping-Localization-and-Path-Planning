@@ -1,0 +1,14 @@
+Nav_To_Pose_Action_Client:
+  ros__parameters:
+    corner1:
+      x: -0.5224477052688599
+      y: -0.08488380908966064
+      theta: 0.0
+    corner2:
+      x: -0.5198091268539429
+      y: -1.2361522912979126
+      theta: 0.0
+    pedestrian:
+      x: 0.826783299446106
+      y: -0.9171792268753052
+      theta: 0.0
