@@ -5,8 +5,7 @@ This repository uses the NAV2 package from ROS2 to implement a robot with naviga
 ## Mapping
 * Launch file: [cartographer.launch.py](https://github.com/RonaldoCD/ROS2-Mapping-Localization-and-Path-Planning/blob/main/project_mapping/launch/cartographer.launch.py)
 
-![mapping](https://github.com/RonaldoCD/ROS2-Mapping-Localization-and-Path-Planning/assets/73918490/2c6deb6e-feaa-4b17-8046-946461cae061)
-![simulation_mapping](https://github.com/RonaldoCD/ROS2-Mapping-Localization-and-Path-Planning/assets/73918490/7668a76f-5182-48bd-ac05-8b594b36f0f8)
+![mapping](https://github.com/RonaldoCD/ROS2-Mapping-Localization-and-Path-Planning/assets/73918490/2c6deb6e-feaa-4b17-8046-946461cae061) ![simulation_mapping](https://github.com/RonaldoCD/ROS2-Mapping-Localization-and-Path-Planning/assets/73918490/7668a76f-5182-48bd-ac05-8b594b36f0f8)
 
 ## Localization
 
